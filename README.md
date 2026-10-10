@@ -65,8 +65,7 @@ An end-to-end sales analysis project focused on evaluating business performance,
 ---
 
 ## 🔗 Links & Resources
-
-* 📊 [**View Interactive Power BI Dashboard**]([PASTE_YOUR_POWER_BI_WEB_LINK_HERE](https://app.powerbi.com/groups/me/reports/90cd0cd6-314a-4432-8e26-cafa8d07c16b/16d08bfb27d67056a9d2?experience=power-bi))
+- 📊 [**View Interactive Power BI Dashboard**](https://app.powerbi.com/groups/me/reports/90cd0cd6-314a-4432-8e26-cafa8d07c16b/16d08bfb27d67056a9d2?experience=power-bi)
 * 📁 [**Repository Link**](https://github.com/youssefyousri/Sales-Performance-Analysis-Business-Insights)
 
 ---
