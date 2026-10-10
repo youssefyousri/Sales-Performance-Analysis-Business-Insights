@@ -73,7 +73,8 @@ An end-to-end sales analysis project focused on evaluating business performance,
 ## 👤 Author
 
 **Youssef Yousri**
-* 💼 [LinkedIn Profile](https://linkedin.com/in/youssefyousri-analyst)
+
+* 💼 [LinkedIn Profile](https://www.linkedin.com/in/youssefyousri-analysis/)
 * 🐙 [GitHub Profile](https://github.com/youssefyousri)
 
 ---
